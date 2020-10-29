@@ -1,8 +1,8 @@
-## You can support me through
+# You can support me through
 - Follow 🙃
 - [Star repo 🌟](https://github.com/Krausso?tab=repositories)
 
-### Hi there 👋
+## Hi there 👋
 - 📫 How to reach me? Especially on Telegram ``@krau5`` or Discord ``krau5#9423``
 - 💻 Currently learning Python | JS | C#
 - ✌🏼 Do not mind pair programming
