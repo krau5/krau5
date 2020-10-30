@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 - 📫 How to reach me? Especially on Telegram ``@krau5`` or Discord ``krau5#9423``
-- 🌱 Currently learning:
+- 💻 Currently learning:
   - Python(Flask | SQL)
   - JS(Angular | Svelte | Express.js)
   - C#(Basic)
