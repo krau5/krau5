@@ -5,7 +5,7 @@
 ## Hi there 👋
 - 📫 How to reach me? Especially on Telegram ``@krau5`` or Discord ``krau5#9423``
 - 💻 Currently learning:
-  - Python(Flask | SQL)
+  - Python(Flask | Django | SQL)
   - JS(Angular | Svelte | Express.js)
   - C#(Basic)
 - ✌🏼 Do not mind pair programming
