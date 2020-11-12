@@ -5,9 +5,10 @@
 ## Hi there 👋
 - 📫 How to reach me? Especially on Telegram ``@krau5`` or Discord ``krau5#9423``
 - 💻 Currently learning:
-  - Python(Flask | Django | SQL)
+  - Python(Flask | Django)
   - JS(Angular | Svelte | Express.js)
   - C#(Basic)
+  - SQL
 - ✌🏼 Do not mind pair programming
 
 [![Krausso's github stats](https://github-readme-stats.vercel.app/api?username=Krausso&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
