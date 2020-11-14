@@ -2,7 +2,7 @@
 - Follow 🙃
 - [Star repo 🌟](https://github.com/Krausso?tab=repositories)
 
-## Hi there 👋
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there
 - 📫 How to reach me? Especially on Telegram ``@krau5`` or Discord ``krau5#9423``
 - 💻 Currently learning:
   - Python(Flask | Django)
