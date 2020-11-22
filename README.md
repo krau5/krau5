@@ -11,6 +11,6 @@
   - SQL
 - ✌🏼 Do not mind pair programming
 
-[![Krausso's github stats](https://github-readme-stats.vercel.app/api?username=Krausso&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Krausso's github stats](https://github-readme-stats.vercel.app/api?username=Krausso&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krausso&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krausso&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
