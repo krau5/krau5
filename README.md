@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there
 - 📫 How to reach me? Especially on Telegram ``@krau5`` or Discord ``krau5#9423``
 - 💻 Currently learning:
-  - Python(Flask | Django)
+  - Python(Flask | FastAPI | Django)
   - JS(Angular | Svelte | Express.js)
   - C#(Basic)
   - SQL
