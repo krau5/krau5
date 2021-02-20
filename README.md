@@ -8,6 +8,7 @@
 - ✌🏼 Do not mind pair programming
 
 ## You can support me through
+- [Donate ☕️](https://www.buymeacoffee.com/krau5)
 - [Star repo 🌟](https://github.com/Krausso?tab=repositories)
 - Follow 🙃
 
