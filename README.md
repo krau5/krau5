@@ -4,6 +4,7 @@
 - 💻 Currently learning:
   - Python(FastAPI | Django)
   - JS(Express.js + GraphQL)
+  - Kotlin(Ktor)
 - 👯 Looking to collaborate on anything free and open source
 - ✌🏼 Do not mind pair programming
 
