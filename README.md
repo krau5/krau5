@@ -1,8 +1,7 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there
+## 👋🏼 Hi there
 - 📫 How to reach me? Especially on Telegram ``@krau5`` or Discord ``krau5#9423``
-- 🔭 Currently working on some of my side projects
+- 🔭 Currently working on a commercial project
 - 👯 Looking to collaborate on anything free and open source
-- ✌🏼 Do not mind pair programming
 
 ## You can support me through
 - [Donate ☕️](https://www.buymeacoffee.com/krau5)
