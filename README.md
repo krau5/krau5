@@ -1,7 +1,7 @@
 ## 👋🏼 Hi there
 - 📫 How to reach me? Especially on Telegram ``@krau5`` or Discord ``krau5#9423``
-- 🔭 Currently working on a commercial project
-- 👯 Looking to collaborate on anything free and open source
+- :electron: Currently working as a React Developer
+- 👯 Focused on one of my commercial projects
 
 ## You can support me through
 - [Donate ☕️](https://www.buymeacoffee.com/krau5)
