@@ -7,6 +7,6 @@
 - Follow 🙃
 
 ## 📈 Github stats
-[![Krausso's github stats](https://github-readme-stats.vercel.app/api?username=Krausso&count_private=true&show_icons=true&theme=default&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Krausso's github stats](https://github-readme-stats.vercel.app/api?username=krau5&count_private=true&show_icons=true&theme=default&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krausso&count_private=true&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krau5&count_private=true&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
