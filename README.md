@@ -10,3 +10,7 @@
 [![Krausso's github stats](https://github-readme-stats.vercel.app/api?username=krau5&count_private=true&show_icons=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krau5&count_private=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📈 Codewars stats
+
+<img src="https://www.codewars.com/users/krau5/badges/large?theme=light" />
