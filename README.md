@@ -1,16 +1,37 @@
-## 👋🏼 Hi there
-- 📫 How to reach me? Especially on Telegram ``@krau5`` or Discord ``krau5#9423``
+https://linkedin.com/in/vadymkravchenko
 
-## You can support me through
-- [Donate ☕️](https://www.buymeacoffee.com/krau5)
-- [Star repo 🌟](https://github.com/Krausso?tab=repositories)
-- Follow 🙃
+## Software Engineer (remote)
+* Pragmatic, goal oriented, met and still trying to exceed all performance metrics.
+* Demonstrated experience developing consumer-focused software.
+* Strong focus on improving productivity and reliability of a code.
+* 4 years in the industry.
 
-## 📈 Github stats
-[![Krausso's github stats](https://github-readme-stats.vercel.app/api?username=krau5&count_private=true&show_icons=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+### Technical Skills
+JavaScript, TypeScript, React.js, Node.js, Express.js, SQL, TDD, git, Linux
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krau5&count_private=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+Main stack: React.js + TS + RTK ( redux-toolkit ) <br />
+All things such as css-preprocessors ( Sass, Less, PostCSS ), linters ( ESLint + Prettier ), state managers ( RTK, MobX ), git, distinct UI kits ( MUI, Bootstrap, Tailwind ), CSS-in-JS ( Emotion.js, Linaria, styled-components ) and all kinds of bells and whistles are included =)
 
-## 📈 Codewars stats
+Additional technologies: Node.js ( Express.js ), Python ( FastAPI, Flask ) SQL, Linux
 
-<img src="https://www.codewars.com/users/krau5/badges/large?theme=light" />
+### Work Experience
+PartsTech, remote <br />
+Software Engineer, (2021 - present).
+* Creating and integrating modern product solutions
+* Building, improving and implementing a lightweight UI-kit
+* Improving a quality of the existing codebase
+
+Veeboo Israel, remote. Software Engineer, (2020-2021)
+* Built and maintained the frontend part of project
+* Communicated with other team members regarding goals and progress of a project
+* Wrote the whole project's documentation
+* Took a part in code-review sessions
+
+Freelancehunt, remote.
+Full Stack Engineer, (2018 - 2020).
+* Managed, planned, developed and maintained every distinct project by myself
+* Implemented and integrated modern solutions into existing projects
+* Consulted businesses regarding the development of their software ( websites, mobile applications, bots, etc. )
+* Demonstrated ability to meet all required SLAs
+
+Rest is history.
