@@ -8,7 +8,7 @@ https://linkedin.com/in/vadymkravchenko
 
 ### Technical Skills
 Main stack: React.js + TS + RTK ( redux-toolkit ) <br />
-All things such as css-preprocessors ( Sass, Less, PostCSS ), linters ( ESLint + Prettier ), state managers ( RTK, MobX ), distinct UI kits ( MUI, Bootstrap, Tailwind ), CSS-in-JS ( Emotion.js, Linaria, styled-components ) and all kinds of bells and whistles are included =)
+All things such as css-preprocessors ( Sass, Less, PostCSS ), linters ( ESLint + Prettier ), state managers ( RTK ), distinct UI kits ( MUI, Bootstrap, Tailwind ), CSS-in-JS ( Emotion.js, Linaria, styled-components ) and all kinds of bells and whistles are included =)
 
 Additional technologies: Node.js ( Express.js ), Python ( FastAPI, Flask ), SQL, TDD, git, Linux
 
