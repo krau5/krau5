@@ -18,6 +18,7 @@ Software Engineer, (2021 - present).
 * Creating and integrating modern product solutions
 * Building, improving and implementing a lightweight UI-kit
 * Improving a quality of the existing codebase
+* Covering the codebase with tests and robust documentation
 
 Veeboo Israel, remote. Software Engineer, (2020-2021)
 * Built and maintained the frontend part of project
