@@ -4,7 +4,7 @@ https://linkedin.com/in/vadymkravchenko
 * Pragmatic, goal oriented, met and still trying to exceed all performance metrics.
 * Demonstrated experience developing consumer-focused software.
 * Strong focus on improving productivity and reliability of a code.
-* 4 years in the industry.
+* 5 years in the industry.
 
 ### Technical Skills
 Main stack: React.js + TS + RTK ( redux-toolkit ) <br />
