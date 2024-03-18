@@ -8,22 +8,21 @@ https://linkedin.com/in/vadymkravchenko
 
 ### Technical Skills
 Main stack: React.js + TS + RTK (redux-toolkit) <br />
-All things such as css-preprocessors (Sass, Less, PostCSS), linters ( ESLint + Prettier ), state managers (RTK), distinct UI kits (MUI, Bootstrap, Tailwind), CSS-in-JS (Emotion.js, Linaria, styled-components) and all kinds of bells and whistles are included =)
+All things such as css-preprocessors (Sass, Less, PostCSS), linters (ESLint + Prettier), state managers (RTK), distinct UI kits (MUI, Bootstrap, Tailwind), CSS-in-JS (Emotion.js, Linaria, styled-components) and all kinds of bells and whistles are included =)
 
-Additional technologies: Jest, Storybook, Node.js (Express.js), Python (FastAPI, Flask), SQL, Docker
+Additional technologies: Jest, Storybook, GraphQL, Node.js (Express.js), Python (FastAPI, Flask), SQL, Docker
 
 ### Work Experience
 PartsTech, remote <br />
 Software Engineer, (2021 - present).
-* Creating and integrating modern product solutions.
+* Creating and integrating product solutions.
 * Building, improving and implementing a lightweight UI-kit.
-* Improving a quality of the existing codebase.
+* Introducing improvements to the existing code base, refactoring, increasing code test coverage.
 
 Veeboo Israel, remote. Software Engineer, (2020-2021)
-* Built and maintained the frontend part of project.
-* Communicated with other team members regarding goals and progress of a project.
-* Wrote the whole project's documentation.
-* Took a part in code-review sessions.
+* Led the team of frontend engineers. Created and delegated tasks among the team members.
+* Collaborated with backend developers on improvements to the existing code base as well as introducing new features.
+* Reviewing the code quality, mentoring team members on code improvements, organizing development processes.
 
 Freelancehunt, remote.
 Full Stack Engineer, (2018 - 2020).
