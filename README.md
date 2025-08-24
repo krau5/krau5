@@ -17,14 +17,13 @@ Pragmatic software engineer with more than 6 years of experience, specializing i
 People.ai, remote. Senior Software Engineer, (2025 - present) <br />
 
 Zoolatech, remote. Senior Frontend Engineer, (2024 - 2025) <br />
-* Contributed to implementation of next-gen design interface by creating and integrating new components into internal UI package
-* Collaborated with other engineers to improve and maintain internal UI package and its documentation to uphold its quality and reliability
-* Refactored and maintained existing MFEs, while addressing technical debt to ensure the system remains stable and well-structured
+* Contributed to next-gen design interface by creating and integrating new components into internal UI package
+* Improved internal UI package and documentation to ensure high quality in collaboration with other engineers
+* Refactored and maintained existing MFEs, addressing technical debt to keep the system stable and well-structured
 
 A1Builders, remote. Co-Founder / Lead Software Engineer (2024, side project)
 * Recruited and onboarded a team of 3 engineers (2 backend, 1 frontend)
-* Led planning, development and deployment of each project, ensuring timelines were met and
-client expectations were managed
+* Led planning, development and delivery of each project, ensuring timelines were met and client expectations were managed
 * Worked with clients to translate their needs into actionable tasks and project milestones
 * Managed team workflow, ensuring tasks were delegated efficiently and progress was tracked
 * Contributed to building a backend solution for a quick launch process of future projects
