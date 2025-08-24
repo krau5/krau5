@@ -14,26 +14,25 @@ Pragmatic software engineer with more than 6 years of experience, specializing i
 * Experience with TON and Tron blockchains
 
 ### Work Experience
-Zoolatech, remote. Senior Frontend Engineer, (2024 - present) <br />
+People.ai, remote. Senior Software Engineer, (2025 - present) <br />
+
+Zoolatech, remote. Senior Frontend Engineer, (2024 - 2025) <br />
 * Contributed to implementation of next-gen design interface by creating and integrating new components into internal UI package
-* Collaborated with other engineers in order to improve and maintain internal UI package and its documentation to uphold its quality and reliability
+* Collaborated with other engineers to improve and maintain internal UI package and its documentation to uphold its quality and reliability
 * Refactored and maintained existing MFEs, while addressing technical debt to ensure the system remains stable and well-structured
+
+A1Builders, remote. Co-Founder / Lead Software Engineer (2024, side project)
+* Recruited and onboarded a team of 3 engineers (2 backend, 1 frontend)
+* Led planning, development and deployment of each project, ensuring timelines were met and
+client expectations were managed
+* Worked with clients to translate their needs into actionable tasks and project milestones
+* Managed team workflow, ensuring tasks were delegated efficiently and progress was tracked
+* Contributed to building a backend solution for a quick launch process of future projects
 
 PartsTech, remote. Frontend Engineer, (2021 - 2024) <br />
 * Collaborated with other engineers to complete the TypeScript transition
 * Built from scratch and maintained UI package
 * Developed tests and documentation for the UI package, increased test coverage to 60%
 * Refactored legacy code to enhance its readability and maintainability
-
-Veeboo Israel, remote. Lead Frontend Engineer, (2020-2021)
-* Led frontend team. Translated goals into tasks, delegated tasks to members of the team
-* Collaborated with backend developers on improvements to the existing codebase as well as introducing new features
-* Mentored team members on code quality improvements, organizing development processes
-
-Freelancehunt, remote. Full-Stack Engineer, (2018 - 2020)
-* Managed, planned, developed and maintained every distinct project by myself.
-* Implemented and integrated modern solutions into existing projects.
-* Consulted businesses regarding the development of their software (websites, mobile applications, bots, etc.).
-* Demonstrated ability to meet all required SLAs.
 
 Rest is history.
