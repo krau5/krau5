@@ -1,20 +1,20 @@
 https://linkedin.com/in/vadymkravchenko
 
 ## Senior Software Engineer (remote)
-Pragmatic software engineer with more than 6 years of experience, specializing in frontend development with a diverse background that includes full-stack and lead roles. Strong team player capable of solving complex problems with any given stack, thriving in fast-paced environments. Proficient in end-to-end development and maintenance of internal UI and tooling solutions for mid-to-large product companies. Led multiple projects from scratch, including independently built software solutions.
+Pragmatic software engineer with more than 7 years of experience, specializing in frontend development with a diverse background that includes full-stack and lead roles. Strong team player capable of solving complex problems with any given stack, thriving in fast-paced environments. Proficient in end-to-end development and maintenance of internal UI and tooling solutions for mid-to-large product companies. Led multiple projects from scratch, including independently built software solutions.
 
 ### Technical skills
 * React, JavaScript/TypeScript, React Router, TanStack Router
-* Redux (redux-toolkit), Zustand, React Query
+* Redux (redux-toolkit), Zustand, TanStack Query
 * Emotion, styled-components, MUI, Tailwind
-* Jest, Cypress
+* Storybook, Jest, Cypress
 * Golang, Node.js (Express.js), Python (FastAPI/Flask)
 * PostgreSQL, MySQL, MongoDB
-* AWS S3, Firebase, Cloudflare, Github Actions, Docker, Coolify
+* AWS (S3), Firebase, Cloudflare, CircleCI, Github Actions, Docker
 * Experience with TON and Tron blockchains
 
 ### Work Experience
-People.ai, remote. Senior Software Engineer, (2025 - present) <br />
+Backstory, remote. Senior Software Engineer, (2025 - present) <br />
 
 Zoolatech, remote. Senior Frontend Engineer, (2024 - 2025) <br />
 * Contributed to next-gen design interface by creating and integrating new components into internal UI package
